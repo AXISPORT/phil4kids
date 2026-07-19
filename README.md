@@ -1,36 +1,137 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<div align="center">
 
-## Getting Started
+# 🎵 Phil4Kids
 
-First, run the development server:
+**Musik · Bewegung · Gesundheit**
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+<span>Ein Projekt von Philipp Greifenberg, Hamburg</span>
+
+</div>
+
+---
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="180">
+<div style="background:linear-gradient(135deg,#667eea,#764ba2);border-radius:20px;padding:30px 20px;color:#fff;text-align:center;">
+<div style="font-size:40px;">🎤</div>
+<div style="font-weight:700;font-size:16px;margin-top:8px;">Musik</div>
+<div style="font-size:12px;opacity:0.8;">Eingängige Songs</div>
+</div>
+</td>
+<td align="center" width="180">
+<div style="background:linear-gradient(135deg,#f093fb,#f5576c);border-radius:20px;padding:30px 20px;color:#fff;text-align:center;">
+<div style="font-size:40px;">💃</div>
+<div style="font-weight:700;font-size:16px;margin-top:8px;">Bewegung</div>
+<div style="font-size:12px;opacity:0.8;">Tanz &amp; Spiele</div>
+</div>
+</td>
+<td align="center" width="180">
+<div style="background:linear-gradient(135deg,#4facfe,#00f2fe);border-radius:20px;padding:30px 20px;color:#fff;text-align:center;">
+<div style="font-size:40px;">🥦</div>
+<div style="font-weight:700;font-size:16px;margin-top:8px;">Ernährung</div>
+<div style="font-size:12px;opacity:0.8;">Gesund &amp; lecker</div>
+</div>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## Was ist Phil4Kids?
+
+Phil4Kids ist ein vom Hamburger Kindermusik-Produzenten **Philipp Greifenberg** initiiertes Projekt. Es verbindet Musik, Bewegung und spielerische Gesundheitsförderung, um Kinder durch eingängige Songs und Spiele für Sport, Tanz und gesunde Ernährung zu begeistern.
+
+<div align="center">
+
+### Der Phil4Kids Ansatz
+
+```
+┌──────────┐     ┌──────────┐     ┌──────────┐     ┌──────────┐
+│  🎶      │  →  │  💃      │  →  │  🧠      │  →  │  🌱      │
+│  Hören   │     │  Tanzen  │     │  Lernen  │     │  Wachsen │
+└──────────┘     └──────────┘     └──────────┘     └──────────┘
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+</div>
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Zielgruppe
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+| Zielgruppe | Beschreibung |
+|---|---|
+| 👶 **Kinder (3–12 Jahre)** | Die Hauptzielgruppe – spielerisch lernen durch Musik und Bewegung |
+| 👨‍👩‍👧 **Familien** | Gemeinsam musizieren, tanzen und gesunde Gewohnheiten entwickeln |
+| 🏫 **Kitas &amp; Schulen** | Pädagogische Integration von Musik und Bewegung im Alltag |
+| 🏥 **Gesundheitseinrichtungen** | Prävention und Gesundheitsförderung durch kreative Methoden |
 
-## Learn More
+## Was macht Phil4Kids besonders?
 
-To learn more about Next.js, take a look at the following resources:
+| Feature | Beschreibung |
+|---|---|
+| 🎤 **Originale Songs** | Eingängige, kindgerechte Musik rund um Gesundheitsthemen |
+| 🎮 **Interaktive Spiele** | Bewegungsspiele, die zum Mitspielen einladen |
+| 🍎 **Gesunde Ernährung** | Lustige Songs über Obst, Gemüse und ausgewogene Ernährung |
+| 🏃 **Sport &amp; Fitness** | Tanzroutinen und Sport-Spiele für Kinder |
+| 🎨 **Kreativität** | Kinder werden ermutigt, eigene Bewegungen und Ideen einzubringen |
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## So funktioniert's
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+<div align="center">
 
-## Deploy on Vercel
+<details>
+<summary><strong>🎤 Schritt 1: Hören</strong> — Die Songs entdecken</summary>
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Kinder hören die eingängigen Phil4Kids-Songs und lernen die Themen spielerisch kennen.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+</details>
+
+<details>
+<summary><strong>💃 Schritt 2: Tanzen</strong> — In Bewegung kommen</summary>
+
+Zu jedem Song gibt es einfache Tanzbewegungen, die jedes Kind nachmachen kann.
+
+</details>
+
+<details>
+<summary><strong>🧠 Schritt 3: Lernen</strong> — Wissen spielerisch aufnehmen</summary>
+
+Durch die Kombination von Musik, Rhythmus und Bewegung bleibt das Gelernte besser im Gedächtnis.
+
+</details>
+
+<details>
+<summary><strong>🌱 Schritt 4: Wachsen</strong> — Gesunde Gewohnheiten bilden</summary>
+
+Im Alltag übernehmen die Kinder die gesunden Gewohnheiten – von der Ernährung bis zur Bewegung.
+
+</details>
+
+</div>
+
+## 📍 Über den Gründer
+
+**Philipp Greifenberg** ist ein erfahrener Kindermusik-Produzent aus Hamburg. Mit seiner Leidenschaft für Musik und Kinderentwicklung hat er Phil4Kids als Ganzheitsansatz für kindliche Gesundheitsförderung geschaffen.
+
+---
+
+<div align="center">
+
+### 🚀 Bereit zum Mitmachen?
+
+**[phil4kids.de](https://phil4kids.de)**
+
+*Entdecke die Welt von Musik, Bewegung und Gesundheit!*
+
+</div>
+
+---
+
+<div align="center">
+
+<span style="color:#64748b;">© 2026 Phil4Kids · Philipp Greifenberg · Hamburg, Deutschland</span>
+
+</div>
